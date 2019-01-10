@@ -39,4 +39,4 @@ $("display").innerHTML+="<td>"+num+"</td>";
 });
 }
   </script><style>
-  td{border:1px black solid;font-size:3em;padding:15px;}iframe{width:100%;}</style><br><iframe src="https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_en.html" ></iframe></body>
+  td{border:1px black solid;font-size:3em;padding:15px;}iframe{width:100%;height:300px;}</style><br><iframe src="https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_en.html" ></iframe></body>
