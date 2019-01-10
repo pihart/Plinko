@@ -11,7 +11,7 @@ Run Simulation
 <tr id="display"></tr>
 </table></div>
 <script>
-//v2.0
+//v3.0
 function $(id) {
   return document.getElementById(id)
 }
