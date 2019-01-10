@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<body><h1>Plinko </h1><a href="old">View unstyled version (for large numbers)</a><br>
+<body><h1>Plinko </h1><a href="old">View unstyled version (for large numbers)</a><br><br>
 <input type="number" id="r" min="1" max="50000" placeholder="Rows">
 <input type="number" id="n" min="1" max="10000000" placeholder="Trials">
 <button onclick="handler()">
