@@ -1,5 +1,5 @@
 ---
-layout: cayman
+layout: default
 ---
 <body><h1>Plinko</h1>
 <input type="number" id="r" min="1" max="50000" placeholder="Rows">
